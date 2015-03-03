@@ -1,0 +1,10 @@
+{
+    "name": "load-page-scripts",
+    "version": "0.0.1",
+    "description": "Function to load script when a specific page is required on server",
+    "devDependencies": {
+        "karma": "~0.12.0",
+        "karma-jasmine": "~0.2.0",
+        "karma-phantomjs-launcher": "~0.1"
+    }
+}
